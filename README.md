@@ -1,2 +1,0 @@
-# Santhosh
-Assignment 1
